@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.timeline-container {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+.responsive{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1110px;
+  height: 100vh;
+}
+.header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}

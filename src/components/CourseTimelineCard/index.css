@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.course-container {
+  padding: 10px;
+  color: #171f46;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration {
+  display: flex;
+  align-items: center;
+}
+.clock {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.taglist {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.tagitem {
+  margin-right: 10px;
+  padding: 10px;
+  background-color: grey;
+  color: #1e293b;
+  border: 0px;
+  border-radius: 20px;
+}

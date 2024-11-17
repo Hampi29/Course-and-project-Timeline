@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.projectimage {
+  height: 200px;
+  width: 200px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration {
+  display: flex;
+  align-items: center;
+}
+.calendar {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
